@@ -1,1 +1,1 @@
-python-3.12.1
+web: python FAIZ.py
