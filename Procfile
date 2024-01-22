@@ -1,1 +1,1 @@
-web: python FAIZ.py
+web: python RIZWAN.py
